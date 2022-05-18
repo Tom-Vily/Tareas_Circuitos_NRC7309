@@ -147,7 +147,7 @@ reduciendo el numero de caracteres necesarios para expresar una cantidad
 interactúan con la electricidad dándonos valores de magnitudes que nos ayudan a 
 determinar con que capacidad está trabajando dicho sistema
 -	En un circuito existen varios componentes que cumplen distintos roles pero trabajan 
--	en conjunto para un mismo objetivo dándonos herramientas para lograr 
+en conjunto para un mismo objetivo dándonos herramientas para lograr 
 ## Bibliografía
 Floyd, T. (Ed.). (2007). 5 Principios de circuitos electricos Floyd-protegido.pdf (8 Edicion).
 
