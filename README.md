@@ -135,20 +135,65 @@ de la corriente al momento de entrar en contacto con el cuerpo humano
 
 ### Explicación
 1) Exprese cada número fraccionario en notación científica:
-2) Exprese cada uno de los números siguientes en notación científica
-3) Exprese cada uno de los números siguientes como un número decimal regular
-4)	Exprese cada número de los siguientes como un número decimal regular
-5)	Ejecute las siguientes sustracciones
-6)	Realice las siguientes divisiones
-7)	Exprese cada número en notación de ingeniería 
-8)	Exprese cada número en notación científica
-9)	Multiplique los números siguientes y exprese cada resultado en notación de ingeniería 
-10)	Exprese cada número en ohms por medio de un prefijo métrico
-11) Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico
-12)	Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico
-13)	Exprese cada cantidad en notación de ingeniería
-14)	Determine lo siguiente:
-15)	Realice las siguientes operaciones
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%201.PNG)
+
+3) Exprese cada uno de los números siguientes en notación científica
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%202.PNG)
+
+5) Exprese cada uno de los números siguientes como un número decimal regular
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%203.PNG)
+
+7)	Exprese cada número de los siguientes como un número decimal regular
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%204.PNG)
+
+9)	Ejecute las siguientes sustracciones
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%205.PNG)
+
+11)	Realice las siguientes divisiones
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%206.PNG)
+
+13)	Exprese cada número en notación de ingeniería 
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%207.PNG)
+
+15)	Exprese cada número en notación científica
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%208.PNG)
+
+17)	Multiplique los números siguientes y exprese cada resultado en notación de ingeniería 
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%209.PNG)
+
+19)	Exprese cada número en ohms por medio de un prefijo métrico
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%2010.PNG)
+
+21) Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%2011.PNG)
+
+23)	Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%2012.PNG)
+
+25)	Exprese cada cantidad en notación de ingeniería
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%2013.PNG)
+
+27)	Determine lo siguiente:
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%2014.PNG)
+
+29)	Realice las siguientes operaciones
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%2015.PNG)
+
 ### Video
 
 ## Conclusiones
