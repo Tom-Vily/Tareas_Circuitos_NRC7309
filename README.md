@@ -134,9 +134,21 @@ de la corriente al momento de entrar en contacto con el cuerpo humano
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/imagenes%20circuitos/2.8.PNG)
 
 ### Explicación
-1) qwe
-2) 
-
+1) Exprese cada número fraccionario en notación científica:
+2) Exprese cada uno de los números siguientes en notación científica
+3) Exprese cada uno de los números siguientes como un número decimal regular
+4)	Exprese cada número de los siguientes como un número decimal regular
+5)	Ejecute las siguientes sustracciones
+6)	Realice las siguientes divisiones
+7)	Exprese cada número en notación de ingeniería 
+8)	Exprese cada número en notación científica
+9)	Multiplique los números siguientes y exprese cada resultado en notación de ingeniería 
+10)	Exprese cada número en ohms por medio de un prefijo métrico
+11) Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico
+12)	Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico
+13)	Exprese cada cantidad en notación de ingeniería
+14)	Determine lo siguiente:
+15)	Realice las siguientes operaciones
 ### Video
 
 ## Conclusiones
