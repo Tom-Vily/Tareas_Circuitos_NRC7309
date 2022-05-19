@@ -194,6 +194,34 @@ de la corriente al momento de entrar en contacto con el cuerpo humano
 
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejercicios/Ej%2015.PNG)
 
+16) Las orbitas de los electrones se llaman
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%202/16.PNG)
+
+17) Cuando se colocan cerca uno de otro , un material cargado positivamente 	y nio negativamente cargado se:
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%202/17.PNG)
+
+18) Diferencia de potencial es otro término para
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%202/18.PNG)
+
+19) ¿Cuál de los siguientes aparatos no es un tipo de fuente de energía
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%202/19.PNG)
+
+20) La corriente eléctrico se define como
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%202/20.PNG)
+
+21) El propósito primordial de un resistor es:
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%202/21.PNG)
+
+22) En un circuito dado, la corriente no debe exceder de 22 A ¿Qué valor de fusible es mejor?
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%202/22.PNG)
+
 ### Video
 
 ## Conclusiones
