@@ -12,6 +12,7 @@
 La ley de ohm describe el comportamiento de la corriente según el voltaje y la resistencia después de varias deducciones llego a la conclusión de que la corriente y el voltaje son proporcionalmente directos es decir que si el voltaje aumenta la corriente lo hace también además de esta relación llego también a la conclusión de que la corriente y la resistencia son inversamente proporcionales haciendo que estas relaciones se den en una ecuación
 
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%202/3.1.PNG)
+
 Gracias a esa ley se explica los cortocircuitos y también los circuitos abiertos
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%202/3.1-2.PNG)
 #### Cálculo de la corriente
