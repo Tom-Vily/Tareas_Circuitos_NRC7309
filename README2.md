@@ -46,44 +46,84 @@ Las fuentes de potencia suelen tener una eficacia y también funciona una capaci
 ## Explicación
 1) Cuando el voltaje a través de un resistor de duplique, la corriente:
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/1.PNG)
+
 2) Cuando circula 10 mA de corriente a través de un resistor de 1.0 kΩ el voltaje del resistor es
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/2.PNG)
 
 3) Una corriente de 250 µA a través de un resistor de 4.7 kΩ produce una caída de voltaje de
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/3.PNG)
+
 4) ¿Cuánta resistencia se requiere para limitar la corriente de una batería de 10 V a 1mA?
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/4.PNG)
 
 5) Si el voltaje a través de un resistor fijo cambia de 10 a 7 V, la corriente del resisto
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/5.PNG)
+
 6) Si el voltaje a través de un resistor se incrementa de 5 a 10 V y la corriente se incrementa de 1 a 2 mA la resistencia
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/6.PNG)
 
 6) Si R cambia a un valor más grande y la lectura del voltímetro permanece en 150 V,  la corriente
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/7.PNG)
+
 7) Si el resistor se retira del circuito y deja una abertura, la lectura del voltímetro
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/8.PNG)
 
 8) Si se ajusta el reóstato para incrementar la resistencia el voltaje de la fuente
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/9.PNG)
+
 9) Si el voltaje de la fuente se incrementa, el voltaje a través del elemento calentador 
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/10.PNG)
 
 10) Enuncie la formula utilizada para encontrar I cuando los valores V y R son conocidos
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/11.PNG)
+
 11) Enuncie la formula utilizada para encontrar R cuando los valores de V e I son conocidos
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/12.PNG)
+
 12) En cierto circuito, I = 5 mA cuando V = 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/13.PNG)
 
 
 13) Cual de los circuitos mostrados tiene más corriente ¿Cuál menor corriente 
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/14.PNG)
+
 14) Determine la corriente en cada caso
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/15.PNG)
+
 15)  Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente 
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/16.PNG)
+
 16) Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/17.PNG)
 
 17) Si se consumen doscientos Joules de energía en 10 s. La potencia es
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/18.PNG)
+
 18) En 50 kW, hay
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/19.PNG)
 
 19) Con 10 V y 50 mA, la potencia es
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%202/20.PNG)
 
 
 ## Video
