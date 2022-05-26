@@ -44,6 +44,48 @@ El momento de que la corriente pasa por nuestros resistores los electrones irán
 Las fuentes de potencia suelen tener una eficacia y también funciona una capacidad de cuanta corriente puede producir y la duración de estas baterías en relación a la cantidad si aumenta o disminuye
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%202/4.5.PNG)
 ## Explicación
+1) Cuando el voltaje a través de un resistor de duplique, la corriente:
+
+2) Cuando circula 10 mA de corriente a través de un resistor de 1.0 kΩ el voltaje del resistor es
+
+3) Una corriente de 250 µA a través de un resistor de 4.7 kΩ produce una caída de voltaje de
+
+4) ¿Cuánta resistencia se requiere para limitar la corriente de una batería de 10 V a 1mA?
+
+5) Si el voltaje a través de un resistor fijo cambia de 10 a 7 V, la corriente del resisto
+
+6) Si el voltaje a través de un resistor se incrementa de 5 a 10 V y la corriente se incrementa de 1 a 2 mA la resistencia
+
+6) Si R cambia a un valor más grande y la lectura del voltímetro permanece en 150 V,  la corriente
+
+7) Si el resistor se retira del circuito y deja una abertura, la lectura del voltímetro
+
+8) Si se ajusta el reóstato para incrementar la resistencia el voltaje de la fuente
+
+9) Si el voltaje de la fuente se incrementa, el voltaje a través del elemento calentador 
+
+10) Enuncie la formula utilizada para encontrar I cuando los valores V y R son conocidos
+
+11) Enuncie la formula utilizada para encontrar R cuando los valores de V e I son conocidos
+
+12) En cierto circuito, I = 5 mA cuando V = 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito
+
+
+13) Cual de los circuitos mostrados tiene más corriente ¿Cuál menor corriente 
+
+14) Determine la corriente en cada caso
+
+15)  Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente 
+16) Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+
+17) Si se consumen doscientos Joules de energía en 10 s. La potencia es
+
+18) En 50 kW, hay
+
+19) Con 10 V y 50 mA, la potencia es
+
+
+
 ## Video
 ## Conclusiones
 -	Como se sabe en un circuito se manejan varias magnitudes eléctricas pero la relación entre ellas puede modificar otras medidas ya sean aumentando o disminuyendo su valor la ley de ohm maneja este concepto relacionando la corriente con el voltaje y la corriente con la resistencia dándonos una ecuación que nos ayudara a sacar valores teóricos para después llevarlos a cabo en un laboratorio
