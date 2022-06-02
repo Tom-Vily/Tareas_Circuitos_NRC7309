@@ -1,4 +1,5 @@
 # Informe Tarea N2
+Tomás Vilaña NRC 7309
 ## Objetivos
 ### General
 - Resumir los conocimientos previos y a partir de estos explicar nuevos términos que 
