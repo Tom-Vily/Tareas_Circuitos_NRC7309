@@ -49,6 +49,27 @@ Entre los resistores en paralelo, la corriente total se divide en corrientes con
 #### Localización de fallas
 
 ## Ejercicios
+-	Para medir la corriente que sale del tercer resistor en un circuito compuesto por cuatro resistores en serie, se coloca un amperímetro
+-	Cuando uno de cuatro resistores en serie se quita de un circuito y este último vuelve a conectarse a la corriente
+-	Se conecta una batería de 9 V a través de una combinación en serie de resistores de 68 Ω, 33 Ω, 100 Ω y 47 Ω. La cantidad de corriente es de:
+-	Si usted mide todas las caídas de voltaje y el voltaje de la fuente en un circuito en serie y los suma, considerando las polaridades, obtendrá un resultado igual a
+-	Un circuito en serie se compone de un resistor de 4.7 k Ω, uno de 5.6 k Ω, y otro de 10 k Ω. El resistor con más voltaje es
+-	La potencia total presente en un circuito dado es de 1 W. Cada uno de los cinco resistores dispuestos en serie y de igual valor que forman el circuito disipa
+-	Al revisar un circuito resistivo en serie, usted se da cuenta de que la corriente está más alta de lo que debería. Deberá buscar
+-	Si el voltaje de fuente disminuye, la corriente indicada por cada miliamperímetro
+-	Con una fuente de voltaje de 10 V conectada entre los puntos A y B cuando los interruptores cambian de la posición 1 a la 2, la corriente total proveniente de la fuente
+-	Cuando los interruptores están en la posición 1 y se desarrolla un corto a través de R3, la corriente en R2
+-	Si el interruptor se cambia de la posición A a la posición B, la lectura del amperímetro
+-	Si el interruptor se cambia de la posición C a la D, la corriente a través de R3
+-	Cuando un resistor de 1.2 k Ω y otro de 100 Ω se conectan en paralelo, la resistencia total es
+-	Ocho resistores están en paralelo. Los de valor más bajo son de 1.0 k Ω. La resistencia total es
+-	Si uno de los resistores de un circuito en paralelo se elimina, la resistencia total
+-	Los siguientes resistores están en paralelo entre las terminales de una fuente de voltaje: 390 Ω, 560 Ω, y 820 Ω. El resistor con menos corriente es
+-	Por cada una de las ramas de un circuito en paralelo de cuatro ramas circula corriente de 10 mA. Si una de las ramas se abre, la corriente en cada una de las otras tres es de
+-	Si un total de 100 mA entran a un circuito en paralelo compuesto de tres ramas, y por dos de las ramas circulan 40 mA y 20 mA, la corriente en la tercera rama es de
+-	La disipación de potencia en cada una de las cuatro ramas en paralelo es de 1 W. La disipación total de potencia es de
+
+
 ## Video
 ## Conclusiones
 •	Las leyes de Kirchhoff ayudan a relacionar distintos tipos de corrientes u otras magnitudes haciendo que podamos armar sistemas de ecuaciones u otros métodos algebraicos para descubrir medidas que se desconocen en los problemas planteados
