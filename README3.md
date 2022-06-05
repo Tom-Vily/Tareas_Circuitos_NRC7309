@@ -148,3 +148,4 @@ Entre los resistores en paralelo, la corriente total se divide en corrientes con
 •	Es común que cuando se arma o se revisa un circuito se puede surgir errores o fallas que deben ser resueltas a través de métodos que cumplen con el mismo objetivo, pero su uso se verá limitado por la versatilidad de la persona que lo este revisando
 
 ## Bilbiografía
+Floyd, T. (Ed.). (2007). 5 Principios de circuitos electricos Floyd-protegido.pdf (8 Edicion).
