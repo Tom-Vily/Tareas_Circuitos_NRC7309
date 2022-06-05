@@ -29,19 +29,19 @@ La cantidad total de potencia presente en un circuito resistivo dispuesto en ser
 
 ### Capítulo 6
 #### Resistores en paralelo
-
+Si existe más de una trayectoria para la corriente entre dos puntos distintos, y si el voltaje entre dichos puntos también aparece a través de cada una de las ramas, entonces existe un circuito en paralelo entre esos dos puntos
 #### Voltaje en un circuito paralelo
-
+El voltaje en circuitos paralelos es constante ya que se pueden pensar como ramas conectadas desde la fuente 
 #### Ley de las corrientes de Kirchhoff
-
+La suma de las corrientes que entran a un nodo (corriente total de entrada) es igual a la suma de las corrientes que salen de dicho nodo (corriente total de salida)
 #### Resistencia total en paralelo
-
+Las resistencias en paralelo de suman de manera diferente a cuando están en serie
 #### Aplicación de la ley de ohm
 
 #### Fuentes de corrientes en paralelo
-
+La suma algebraica de las corrientes es igual a la corriente total viendo que sus signos sean correspondientes
 #### Divisores de corriente
-
+Entre los resistores en paralelo, la corriente total se divide en corrientes con valores que son inversamente proporcionales a los valores de resistencia
 #### Potencia de circuitos en paralelo
 
 #### Aplicaciones de circuitos paralelo
