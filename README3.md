@@ -104,42 +104,79 @@ Entre los resistores en paralelo, la corriente total se divide en corrientes con
 
 ## Ejercicios
 -	Para medir la corriente que sale del tercer resistor en un circuito compuesto por cuatro resistores en serie, se coloca un amperímetro
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/1.PNG)
+
 -	Cuando uno de cuatro resistores en serie se quita de un circuito y este último vuelve a conectarse a la corriente
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/2.PNG)
+
 -	Se conecta una batería de 9 V a través de una combinación en serie de resistores de 68 Ω, 33 Ω, 100 Ω y 47 Ω. La cantidad de corriente es de:
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/3.PNG)
+
 -	Si usted mide todas las caídas de voltaje y el voltaje de la fuente en un circuito en serie y los suma, considerando las polaridades, obtendrá un resultado igual a
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/4.PNG)
+
 -	Un circuito en serie se compone de un resistor de 4.7 k Ω, uno de 5.6 k Ω, y otro de 10 k Ω. El resistor con más voltaje es
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/5.PNG)
+
 -	La potencia total presente en un circuito dado es de 1 W. Cada uno de los cinco resistores dispuestos en serie y de igual valor que forman el circuito disipa
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/6.PNG)
+
 -	Al revisar un circuito resistivo en serie, usted se da cuenta de que la corriente está más alta de lo que debería. Deberá buscar
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/7.PNG)
+
 -	Si el voltaje de fuente disminuye, la corriente indicada por cada miliamperímetro
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/8.PNG)
+
 -	Con una fuente de voltaje de 10 V conectada entre los puntos A y B cuando los interruptores cambian de la posición 1 a la 2, la corriente total proveniente de la fuente
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/9.PNG)
+
 -	Cuando los interruptores están en la posición 1 y se desarrolla un corto a través de R3, la corriente en R2
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/10.PNG)
+
 -	Si el interruptor se cambia de la posición A a la posición B, la lectura del amperímetro
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/11.PNG)
+
 -	Si el interruptor se cambia de la posición C a la D, la corriente a través de R3
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/12.PNG)
+
 -	Cuando un resistor de 1.2 k Ω y otro de 100 Ω se conectan en paralelo, la resistencia total es
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/13.PNG)
+
 -	Ocho resistores están en paralelo. Los de valor más bajo son de 1.0 k Ω. La resistencia total es
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/14%7D.PNG)
+
 -	Si uno de los resistores de un circuito en paralelo se elimina, la resistencia total
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/15.PNG)
+
 -	Los siguientes resistores están en paralelo entre las terminales de una fuente de voltaje: 390 Ω, 560 Ω, y 820 Ω. El resistor con menos corriente es
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/16.PNG)
+
 -	Por cada una de las ramas de un circuito en paralelo de cuatro ramas circula corriente de 10 mA. Si una de las ramas se abre, la corriente en cada una de las otras tres es de
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/17.PNG)
+
 -	Si un total de 100 mA entran a un circuito en paralelo compuesto de tres ramas, y por dos de las ramas circulan 40 mA y 20 mA, la corriente en la tercera rama es de
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/18.PNG)
+
 -	La disipación de potencia en cada una de las cuatro ramas en paralelo es de 1 W. La disipación total de potencia es de
+
 ![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%203/19.PNG)
 
 ## Video
