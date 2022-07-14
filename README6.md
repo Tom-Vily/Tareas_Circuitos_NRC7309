@@ -52,4 +52,5 @@
 ## Video
 ## Conclusiones
 •	Los capacitadores son elementos de un circuito eléctrico los cuales pueden ser usados en diferentes dispositivos eléctricos que hacen uso de sus pulsos de energía al descargar su energía de una forma rápida sim embargo su uso debe ser cuidadoso ya que no cuenta con un sistema que proteja al usuario de posibles daños
+
 •	La electricidad en ca y cd cumplen distintos flujos por así llamarlo para el análisis de la CA en vez de verlo como un flujo de un solo sentido se relaciona con la función seno la cual varia su polaridad con respecto al tiempo y también su voltaje
