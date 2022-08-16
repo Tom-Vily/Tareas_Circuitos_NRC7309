@@ -13,31 +13,57 @@
 
 •	El inductor básico
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%207/1.PNG)
+
 •	Tipos de inductores
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%207/2.PNG)
 
 •	Inductores en serie y en paralelo
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%207/3.PNG)
+
 •	Inductores en circuitos de CD
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%207/4.PNG)
+
 •	Aplicaciones de los inductores
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%207/5.PNG)
 
 ### Capítulo 14: Transformadores
 
 •	Inductancia mutua
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%207/6.PNG)
+
 •	El transformador básico
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%207/7.PNG)
 
 •	Transformadores elevadores y reductores
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%207/8.PNG)
+
 •	Carga del devanado secundario
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%207/9.PNG)
 
 •	Carga reflejada
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%207/10.PNG)
+
 •	Igualación de impedancia
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%207/11%7D.PNG)
 
 •	Características de un transformador no ideal (transformador real)
 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%207/12.PNG)
+
 •	Transformadores con tomas y devanados múltiples
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%207/13.PNG)
 
 
 ## Ejercicios
