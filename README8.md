@@ -17,49 +17,61 @@
 
 •	El sistema de los números complejos
 
+![]()
 
 •	Respuesta sinusoidal de circuitos RC en serie
 
+![]()
 
 •	Impedancia de circuitos RC en serie
 
+![]()
 
 •	Análisis de circuitos RC en serie
 
+![]()
 
 •	Impedancia y admitancia de circuitos RC en paralelo
 
+![]()
 
 •	Análisis de circuitos RC en paralelo
 
+![]()
 
 •	Análisis de circuitos RC en serie-paralelo
 
+![]()
 
 •	Potencia en circuitos RC
 
-
+![]()
 
 ### Capítulo 16: Circuitos RL
 
 •	Respuesta sinusoidal de circuitos RL en serie
 
+![]()
 
 •	Impedancia de circuitos RL en serie
 
+![]()
 
 •	Análisis de circuitos RL en serie
 
+![]()
 
 •	Impedancia y admitancia de circuitos RL en paralelo
 
+![]()
 
 •	Análisis de circuitos RL en paralelo
 
+![]()
 
 •	Potencia en circuitos RL
 
-
+![]()
 
 
 ## Ejercicios
