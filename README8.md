@@ -17,61 +17,61 @@
 
 •	El sistema de los números complejos
 
-![]()
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%208/1.PNG)
 
 •	Respuesta sinusoidal de circuitos RC en serie
 
-![]()
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%208/2.PNG)
 
 •	Impedancia de circuitos RC en serie
 
-![]()
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%208/3.PNG)
 
 •	Análisis de circuitos RC en serie
 
-![]()
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%208/4.PNG)
 
 •	Impedancia y admitancia de circuitos RC en paralelo
 
-![]()
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%208/5.PNG)
 
 •	Análisis de circuitos RC en paralelo
 
-![]()
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%208/6.PNG)
 
 •	Análisis de circuitos RC en serie-paralelo
 
-![]()
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%208/7.PNG)
 
 •	Potencia en circuitos RC
 
-![]()
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%208/8.PNG)
 
 ### Capítulo 16: Circuitos RL
 
 •	Respuesta sinusoidal de circuitos RL en serie
 
-![]()
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%208/9.PNG)
 
 •	Impedancia de circuitos RL en serie
 
-![]()
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%208/10.PNG)
 
 •	Análisis de circuitos RL en serie
 
-![]()
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%208/11.PNG)
 
 •	Impedancia y admitancia de circuitos RL en paralelo
 
-![]()
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%208/12.PNG)
 
 •	Análisis de circuitos RL en paralelo
 
-![]()
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%208/13.PNG)
 
 •	Potencia en circuitos RL
 
-![]()
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%208/14.PNG)
 
 
 ## Ejercicios
