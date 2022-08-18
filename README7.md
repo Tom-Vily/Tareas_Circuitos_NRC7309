@@ -68,22 +68,59 @@
 
 ## Ejercicios
 
-- En el plano complejo, el número 3 + j4 se localiza en el
+- Una inductancia de 0.05 µH es mayor que
 
-- El número complejo 5 + j5 equivale a
-- (4 + j7) + (-2 + j9) es igual a
-- (5∠45°)(2∠20°) es igual a
-- En un circuito RC en serie, el voltaje entre los extremos de la resistencia está
-- Cuando se incrementa la frecuencia del voltaje aplicado a un circuito RC en serie, la impedancia
-- En un circuito RC en serie, cuando la frecuencia y la resistencia se duplican, la impedancia
-- Se miden los voltajes de la pregunta 15 a cierta frecuencia. Para hacer que el voltaje a través del resistor sea mayor que el voltaje a través del capacitor, la frecuencia
-- Para reducir el ángulo de fase a menos de 45°, debe existir la siguiente condición:
-- En un circuito RC en paralelo, a través de la rama resistiva circula 1 A rms y 1 A rms pasa por la rama capacitiva. La corriente rms total esPara cierta carga, la potencia real es de 100 W y la potencia reactiva de 100 VAR. La potencia aparente es de
-- En un circuito RL en serie, el voltaje a través del resistor
-- Si la frecuencia se duplica y la resistencia es reducida a la mitad, la impedancia de un circuito RL en serie
-- En un circuito RL en serie, se miden 10 V rms entre las terminales del resistor y 10 V rms entre las del inductor. El valor pico del voltaje de fuente es de
-- Cuando en un circuito RL en serie el voltaje entre las terminales de un resistor llega a ser más grande que el voltaje del inductor, el ángulo de fase
-- En un circuito RL en paralelo, hay 2 A rms en la rama resistiva y 2 A rms en la rama inductiva. La corriente rms total es de 
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%207/1.PNG)
+
+- Una inductancia de 0.33 mH es más pequeña que
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%207/2.PNG)
+
+- Cuando la corriente que circula a través de un inductor se duplica, la energía guardada
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%207/3.PNG)
+
+- La inductancia de una bobina de núcleo de hierro se incrementa si
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%207/4.PNG)
+
+- Tres inductores de 1 mH, 3.3 mH y 0.1 mH, respectivamente, se conectan en paralelo. La inductancia total es
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%207/5.PNG)
+
+- Se aplica un voltaje sinusoidal entre las terminales de un inductor. Cuando la frecuencia del voltaje se incrementa, la corriente
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%207/6.PNG)
+
+- Se conecta un ohmmetro entre las terminales de un inductor y la aguja indica un valor infinito. El inductor¿Cuál de los siguientes voltajes se ve afectado por la relación de vueltas de un transformador?
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%207/7.PNG)
+
+- Cuando la relación de vueltas de un transformador es de 10 y el voltaje de ca primario es de 6 V, el voltaje secundario es de
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%207/8.PNG)
+
+- Cierto transformador tiene 500 vueltas en el devanado primario y 2500 en el secundario. La relación de vueltas es de
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%207/9.PNG)
+
+- En cierto transformador cargado, el voltaje secundario es un tercio del voltaje primario. La corriente secundaria es
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%207/10.PNG)
+
+- En la pregunta 9, si la relación de vueltas es de 0.5, la fuente “ve” una carga reflejada de
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%207/11.PNG)
+
+- Se transfiere potencia máxima de una fuente a una carga en un circuito acoplado por transformador cuando
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%207/12.PNG)
+
+- Cierto transformador tiene relación de vueltas de 1 y coeficiente de acoplamiento de 0.95. Cuando se aplica un 1 V de ca al primario, el voltaje secundario es de
+
+![](https://github.com/Tom-Vily/Imagenes/blob/main/img%20ejer%207/13.PNG)
+
+
 ## Video
 ## Conclusiones
 
