@@ -122,4 +122,7 @@ entrada es de cero, el voltaje de salida es de
 - En los circuitos RCL interactúan bobinas que crean campos los cuales puedes compartir o enviar energía a otros dispositivos sin la 
 necesidad de estar en contacto, pero también otra utilidad de estos es que pueden aumentar o 
 disminuir el voltaje, amperaje según lo requiera la persona dándonos nuevas formas de armar circuitos
+
 ## Bibliografía
+
+Floyd, T. (Ed.). (2007). 5 Principios de circuitos electricos Floyd-protegido.pdf (8 Edicion).
